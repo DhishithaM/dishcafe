@@ -1,0 +1,26 @@
+****************************************************************
+ Your order details:
+****************************************************************
+
+ Drink: coffee 
+ Coffee Choice: americano 
+ Foam Choice: foam 
+ Shot Size: 2 shots 
+ Size Choice: small 
+ Milk Choice: almond 
+ Sugar Choice: raw 
+ Temperature Choice: medium 
+****************************************************************
+
+****************************************************************
+ Your order details:
+****************************************************************
+ Drink: tea 
+ Tea Choice: earl grey 
+ Fruit Choice: lemon 
+ Size Choice: small 
+ Milk Choice: almond 
+ Sugar Choice: white 
+ Temperature Choice: medium 
+****************************************************************
+
